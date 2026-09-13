@@ -1,4 +1,7 @@
-# About
+---
+layout: default
+title: About
+---
 
 I'm a Cybersecurity and Network Defense student, currently focused on IT fundamentals, web application exploitation, and privilege escalation — because you can't attack or defend a system you don't understand.
 
@@ -12,4 +15,4 @@ Depth over breadth. Too many people in this field lean on copy-pasted commands w
 - **pfSense** — network segmentation
 - **Security Onion** *(in progress)* — blue-team/SIEM capability
 
-[← Back home](index.md)
+[← Back home](/)
