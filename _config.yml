@@ -1,2 +1,6 @@
 title: Tanatswa E Chikwambi
 description: Cybersecurity Student | Ethical Hacking & Penetration Testing
+collections:
+  projects:
+    output: true
+    permalink: /:path.html
