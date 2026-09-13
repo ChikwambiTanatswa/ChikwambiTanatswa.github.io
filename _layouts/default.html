@@ -44,11 +44,13 @@
 
   <aside>
     <div class="side-block">
-      <h2>// recent</h2>
-      <ul>
-        <li><a href="{{ '/projects.html' | relative_url }}">Metasploitable2 Full Compromise</a><div class="sub">coming soon</div></li>
-      </ul>
-    </div>
+  <h2>// recent</h2>
+  <ul>
+    {% for project in site.projects | sort: 'date' | reverse limit:3 %}
+    <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a><div class="sub">{{ project.date | date: "%b %-d, %Y" }}</div></li>
+    {% endfor %}
+  </ul>
+</div>
     <div class="side-block">
       <h2>// connect</h2>
       <div class="social-row">
