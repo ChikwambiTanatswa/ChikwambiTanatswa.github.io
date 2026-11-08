@@ -17,6 +17,6 @@ pfSense, Suricata and Kali Linux. This phase
 covers IDS deployment, configuration and alert
 verification.
 
-[Read the full TraceLab write-up](PASTE_TRACELAB_URL_HERE)
+[Read the full TraceLab write-up]({{ '/projects/tracelab/phase-1/' | relative_url }})
 [← Back home](/)
  
