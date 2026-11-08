@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Trace Lab Phase 1
+permalink: /_projects/tracelab/phase-1/
 ---
-
 
 ## Phase 1 — Setup and Log Sources (Suricata on pfSense)
 
