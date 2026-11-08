@@ -37,7 +37,8 @@ Package Manager install attempt failed repeatedly with "unable to retrieve packa
 
 ### Result
 The Nmap scan was logged under Suricata's Alerts for the LAN interface, showing TCP and ICMP entries between 192.168.1.101 (Kali) and 192.168.1.1 (pfSense) (screenshot captured).
-![[Pasted image 20261017211034.png]]
+<img width="1023" height="312" alt="Pasted image 20261017211034" src="https://github.com/user-attachments/assets/2acb6652-559c-4e19-8fbf-37228d532479" />
+
 
 
 ---
