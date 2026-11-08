@@ -1,3 +1,9 @@
+---
+layout: default
+title: Trace Lab Phase 1
+---
+
+
 ## Phase 1 — Setup and Log Sources (Suricata on pfSense)
 
 **Date:** 2026-10-17
